@@ -1,0 +1,15 @@
+{
+  "name": "who-ajax",
+  "version": "0.0.1",
+  "description": "who-ajax 对原生Ajax的封装",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "who-ajax",
+    "ajax"
+  ],
+  "author": "huxiaoshuai <justbecoder@aliyun.com>",
+  "license": "ISC"
+}
